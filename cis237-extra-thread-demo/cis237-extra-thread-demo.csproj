@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>net7.0-windows</TargetFramework>
     <RootNamespace>cis237_extra_thread_demo</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
